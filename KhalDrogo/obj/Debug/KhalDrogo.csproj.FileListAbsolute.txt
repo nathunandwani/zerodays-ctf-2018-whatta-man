@@ -1,0 +1,5 @@
+C:\Users\nandw\Desktop\KhalDrogo\KhalDrogo\bin\Debug\KhalDrogo.exe
+C:\Users\nandw\Desktop\KhalDrogo\KhalDrogo\bin\Debug\KhalDrogo.pdb
+C:\Users\nandw\Desktop\KhalDrogo\KhalDrogo\obj\Debug\KhalDrogo.csprojResolveAssemblyReference.cache
+C:\Users\nandw\Desktop\KhalDrogo\KhalDrogo\obj\Debug\KhalDrogo.exe
+C:\Users\nandw\Desktop\KhalDrogo\KhalDrogo\obj\Debug\KhalDrogo.pdb
